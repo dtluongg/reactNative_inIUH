@@ -26,8 +26,8 @@
 // cả hai đội có cùng số điểm và đều có số điểm lớn hơn hoặc bằng 100 
 // điểm. Nếu không thì không có đội nào giành được cúp
 
-var point1 =  [110, 100, 300];
-var point2 =  [80, 100, 200];
+var point1 =  [90, 100, 110];
+var point2 =  [100, 100, 100];
 
 // tinh diem trung binh
 function  cal_AVG(arr_point){   
